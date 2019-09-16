@@ -1,0 +1,30 @@
+html,body,#root,.app_css{
+    height:100%;
+}
+/* 字体颜色 */
+.cfff{
+    color:#fff;
+}
+/* 字体大小 */
+.fs24{font-size:24px;}
+/* 水平居中 */
+.tcenter{text-align:center;}
+.login,.reg{
+    background:#488CEF;
+    height:100%;
+    width:100%;
+    position:relative;
+}
+
+.protocol{
+    position:fixed;
+    bottom:10px;
+    width:100%;
+    text-align:center;
+}
+input{
+    font-size:14px !important;
+}
+.am-input-label-5{
+width:50px !important;
+}

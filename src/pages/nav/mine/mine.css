@@ -1,0 +1,7 @@
+.mine {
+    background: #488CEF;
+}
+
+.minetitle>div:not(:last-child) {
+    border-right: 1px solid #fff
+}

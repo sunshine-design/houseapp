@@ -1,0 +1,68 @@
+
+/* 顶部 */
+.main_top {
+  height: 50px;
+  color: #488CEF;
+  padding: 0 10px;
+}
+
+.main_top img {
+  width: 30px;
+  height: 30px;
+}
+
+.am-list-item .am-input-label {
+  margin: 0 !important;
+}
+
+.am-list-item.am-input-item {
+  width: 100%;
+  padding: 0 !important;
+  height: 40px !important;
+  border-radius: 20px;
+}
+
+/* 导航栏 */
+.sub-title {
+  color: #888;
+  font-size: 14px;
+  padding: 15px 0 9px 15px;
+}
+
+.not-square-grid .am-grid-icon {
+  width: 40px;
+  height: 60px;
+}
+
+/* 竖向轮播 */
+.mainnew {
+  margin: 2px 0;
+}
+
+.mainnewtitle {
+  color: #EA514B;
+  font-size: 20px;
+  height: 30px;
+  padding: 3px 0;
+  width: 40%;
+  border-right: 1px solid #ccc;
+}
+
+.my-carousel .v-item {
+  height: 36px;
+  line-height: 36px;
+  padding-left: 10px;
+}
+
+/* 房产全百科 */
+.houselist {
+  color: #488CEF;
+  margin: 10px 10px 10px 0;
+}
+
+/* 猜你喜欢 */
+.likehouse {
+  font-size: 18px;
+  margin-top: 2px;
+  color: #EA514B;
+}
